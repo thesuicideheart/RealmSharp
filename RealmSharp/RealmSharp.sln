@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28822.285
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealmSharp", "RealmSharp\RealmSharp.csproj", "{235E638D-D957-4E52-867E-0710F0E4BF2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{235E638D-D957-4E52-867E-0710F0E4BF2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{235E638D-D957-4E52-867E-0710F0E4BF2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{235E638D-D957-4E52-867E-0710F0E4BF2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{235E638D-D957-4E52-867E-0710F0E4BF2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D1A6DA0-59BC-4083-9FC8-02B54A8B7BFC}
+	EndGlobalSection
+EndGlobal
